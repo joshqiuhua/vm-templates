@@ -12,7 +12,7 @@
         "fetch": [
             {
                 "name": "os", 
-                "url": "ftp://nas2/os.img.gz", 
+                "url": "http://nas3/os.img.gz", 
                 "sha256": "c6f8070f23b550009b28b73af8f3478b381e8d951dc5353b5277dad9291bb487",
                 "size": 1657015858
             }
